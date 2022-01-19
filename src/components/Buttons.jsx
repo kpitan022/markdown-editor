@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import FileSaver, { saveAs } from "file-saver";
+import { saveAs } from "file-saver";
 import { MonaContext } from "../context/monaContext";
 import { useContext } from "react";
 
